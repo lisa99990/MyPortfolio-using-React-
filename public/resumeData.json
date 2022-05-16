@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Lisa Rajkarnikar",
+    "description":"Knowledgeable full-stack developer with extensive experience playing key role in development, deployment and maintenance of complex enterprise software. Adept at developing scalable, clean and robust code using Java, .NET programming and Angular; and leveraging Design Patterns and database design skills to enhance performance.",
+    "image":"profilepic.jpg",
+    "bio":"Knowledgeable full-stack developer with extensive experience playing key role in development, deployment and maintenance of complex enterprise software. Adept at developing scalable, clean and robust code using Java, .NET programming and Angular; and leveraging Design Patterns and database design skills to enhance performance.",
+    "Message":"Fell free to contact me. :)",
+    "email": "lisarajkarnikar@gmail.com",
+    "phone": "--",
+    "github":"https://github.com/lisa99990",
+    "project":"https://github.com/lisa99990",
+    "address":{
+      "street":"1000 N. 4Th St",
+      "city":"Fairfield",
+      "state":"Iowa",
+      "zip": "52557"
+    },
+    "website": "https://www.linkedin.com/in/lisa-rajkarnikar-79482a17a/",
+    "resumedownload":"https://www.linkedin.com/in/lisa-rajkarnikar-79482a17a/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/mesmerise.lisa/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lisa-rajkarnikar-79482a17a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/lisa.be.lisa/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/lisa99990",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My Skills",
+    "education":[
+      {
+        "school":"Maharishi International University",
+        "degree":"Masters in Computer Science",
+        "graduated":"2023",
+        "description":"Modern Programming Practices, Web Application, Advanced Software Development, Algorithms, Cloud Computing"
+      },
+      {
+        "school":"Advanced College of Engineering and Management",
+        "degree":"Bachelors in Computer Engineering",
+        "graduated":"2019",
+        "description":"Software Engineering, Project Management, Object Oriented Programming, Database Management Systems, Data Structure and Algorithm, Data Mining, Big Data Technology"
+      }
+    ],
+    "work":[
+      {
+        "company":"Nepasoft Solutions",
+        "title":"Software Engineer",
+        "years":"2020-2021",
+        "description":"Developed feature-rich web and desktop apps for banking services. "
+      },
+      {
+        "company":"Innovative Solutions",
+        "title":"Software Developer Trainee",
+        "years":"2020",
+        "description":"Conducted back-end development and implemented E-Building permit system for local municipality, using Repository and Unit of Work Pattern best practices. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":".Net",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"AWS",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"AWS Deploy",
+        "category":"Deployed react app in AWS",
+        "image":"01.jpg",
+        "url":"https://github.com/lisa99990"
+      },
+      {
+        "title":"AWS Skillset",
+        "category":"AWS skillset",
+        "image":"02.jpg",
+        "url":"https://github.com/lisa99990"
+      }
+    ]
+  }
+}
